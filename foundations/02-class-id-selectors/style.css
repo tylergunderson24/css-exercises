@@ -1,9 +1,9 @@
-p {
-    background-color: lightcoral;
-    font-family: Verdana, sans-serif;
+.odd {
+    background-color: rgb(255, 167, 167);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-.large {
+.adjust-font-size {
     font-size: 24px;
 }
 
