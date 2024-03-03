@@ -1,0 +1,20 @@
+p {
+    background-color: lightcoral;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.p.large {
+    font-size: 24px;
+}
+
+#first {
+    color: blue;
+    font-size: 36px;
+}
+
+#second {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}
+
